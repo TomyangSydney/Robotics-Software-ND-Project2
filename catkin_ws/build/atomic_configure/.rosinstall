@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /mnt/d/Udacity_robotics_nanodegree/project2/catkin_ws/devel/setup.sh
